@@ -1,5 +1,7 @@
 # Diamond_Price_Prediction
 
+![alt text](img/image.png)
+
 ## Description
 Predictive Model for Diamond Price Estimation Based on Color, Clarity, Carats, Cut.
 
@@ -37,5 +39,5 @@ This project will become a valuable tool enhancing business efficiency for compa
 
 ## Dependencies and solutions
 
-[laptop](https://github.com/esta1d/Diamond_Price_Prediction/blob/main/diamond.ipynb) with solution
-[libraries](https://github.com/esta1d/Diamond_Price_Prediction/blob/main/requements.txt) used
+* [laptop](https://github.com/esta1d/Diamond_Price_Prediction/blob/main/diamond.ipynb) with solution
+* [libraries](https://github.com/esta1d/Diamond_Price_Prediction/blob/main/requements.txt) used
