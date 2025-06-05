@@ -39,5 +39,8 @@ This project will become a valuable tool enhancing business efficiency for compa
 
 ## Dependencies and solutions
 
-* [laptop](https://github.com/esta1d/Diamond_Price_Prediction/blob/main/diamond.ipynb) with solution
-* [libraries](https://github.com/esta1d/Diamond_Price_Prediction/blob/main/requements.txt) used
+* ***Python 11.x***
+* ***[laptop](https://github.com/esta1d/Diamond_Price_Prediction/blob/main/diamond.ipynb)* with solution**
+* ***[libraries](https://github.com/esta1d/Diamond_Price_Prediction/blob/main/requements.txt)* used**
+
+##
