@@ -31,7 +31,7 @@ This project will become a valuable tool enhancing business efficiency for compa
 ## Project structure
 
 ```
-prediction_taxi_ride_duration/
+diamond_price_prediction/
 │
 ├── data                  
 │   └── *.csv 
