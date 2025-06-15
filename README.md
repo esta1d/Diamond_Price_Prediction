@@ -47,7 +47,7 @@ prediction_taxi_ride_duration/
 
 * ***Python 11.x***
 * ***[SOLUTION](https://github.com/esta1d/Diamond_Price_Prediction/blob/main/diamond.ipynb)***
-* ***[LIBRARIES](https://github.com/esta1d/Diamond_Price_Prediction/blob/main/requements.txt)* used**
+* ***[LIBRARIES](https://github.com/esta1d/Diamond_Price_Prediction/blob/main/requements.txt)***
 * ***[kaggle](https://www.kaggle.com/datasets/shivam2503/diamonds)***
 
 ## Conclusion
