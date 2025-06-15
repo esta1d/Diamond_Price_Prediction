@@ -47,7 +47,8 @@ prediction_taxi_ride_duration/
 
 * ***Python 11.x***
 * ***[LAPTOP](https://github.com/esta1d/Diamond_Price_Prediction/blob/main/diamond.ipynb)* with solution**
-* ***[+LIBRARIES](https://github.com/esta1d/Diamond_Price_Prediction/blob/main/requements.txt)* used**
+* ***[LIBRARIES](https://github.com/esta1d/Diamond_Price_Prediction/blob/main/requements.txt)* used**
+* ***[kaggle](https://www.kaggle.com/datasets/shivam2503/diamonds)***
 
 ## Conclusion
 Within the scope of this project, a successful model has been developed for predicting diamond prices based on key characteristics of precious stones, specifically their weight, clarity, color, and cut quality. By utilizing regression methods, it became possible to identify significant factors influencing the cost of diamonds and select the optimal algorithm for building an accurate prediction model.
